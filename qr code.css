@@ -1,0 +1,36 @@
+body{
+    background-color:gainsboro;
+    justify-content: center;
+    align-items: center; 
+    display: flex;
+    height: 100vh;   
+}
+
+.main{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    width:fit-content;
+    margin: 1%;
+    padding: 1%;
+}
+
+img{
+    border-radius: 10px;
+    height:230px;
+    width:100%;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size:smaller;
+    color: grey;
+}
